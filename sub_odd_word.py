@@ -1,18 +1,17 @@
 """
-INIT ---> start,middle,end
+combinaison possible si la longueur du mot est impaire
 
-combination = C
+initial ---> start,middle,end
+
+combinaison = C
 
 C1: start,end,middle
-
 C2: middle,end,start
-C3: middle,start,end
 
+C3: middle,start,end
 C4: end,start,middle
 
 C5: end,middle,start
-
-IF IS ONLY IF THE LENGTH OF THE WORD IS ODD
 
 """
 
