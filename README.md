@@ -1,5 +1,7 @@
 # SUBDIV8
 
+**Projet pas maintenu et pas mise à jour**
+
 Exemple si la longeur du est impaire:
 hello
 
